@@ -6,15 +6,23 @@
   "themetitle": "Purple Sunset Theme",
    "hexcode1": "#FFD854B9",
     "hexcode2": "#FF453DDF",
-      "imagedownload": "https://cdn.discordapp.com/attachments/625368416198328340/1097578324311691346/purple_sunset.png"
+      "imagedownload": "https://media.discordapp.net/attachments/876668130288619540/1097582989401149451/0bb6dqsiab451.gif"
     },
     {
   "imageurl": "https://i.gyazo.com/d0f245ef7a72471dc0ac7e0335944967.png",
   "author": "By roachcock#3492",
   "themetitle": "Pikachu's Theme",
-   "hexcode1": "#FFD854B9",
-    "hexcode2": "#FF453DDF",
-      "imagedownload": "https://cdn.discordapp.com/attachments/625368416198328340/1097578324559151165/pikachu.png"
+   "hexcode1": "#FF119020",
+    "hexcode2": "#FFCFDF3D",
+      "imagedownload": "https://media.discordapp.net/attachments/876668130288619540/1097582989023649832/pikachu.gif"
+    }
+    {
+  "imageurl": "https://i.gyazo.com/70d2aa4b2efe26a41cd1485c328aca8a.png",
+  "author": "By roachcock#3492",
+  "themetitle": "Kirby's Theme",
+   "hexcode1": "#FFD38566",
+    "hexcode2": "#FFE284B6",
+      "imagedownload": "https://media.discordapp.net/attachments/876668130288619540/1097583021193969703/kirby.gif"
     }
   ]
 }
