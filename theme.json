@@ -1,18 +1,20 @@
 {
   "themes": [
     {
-  "imageurl": "https://i.gyazo.com/d0f245ef7a72471dc0ac7e0335944967.png",
+  "imageurl": "https://i.gyazo.com/9b8e1a8f007197f28cc7a0078034bdad.png",
   "author": "By roachcock#3492",
-  "themetitle": "Pikachu's Theme",
+  "themetitle": "Purple Sunset Theme",
    "hexcode1": "#FFD854B9",
-    "hexcode2": "#FF453DDF"
+    "hexcode2": "#FF453DDF",
+      "imagedownload": "https://cdn.discordapp.com/attachments/625368416198328340/1097578324311691346/purple_sunset.png"
     },
     {
   "imageurl": "https://i.gyazo.com/d0f245ef7a72471dc0ac7e0335944967.png",
   "author": "By roachcock#3492",
   "themetitle": "Pikachu's Theme",
    "hexcode1": "#FFD854B9",
-    "hexcode2": "#FF453DDF"
+    "hexcode2": "#FF453DDF",
+      "imagedownload": "https://cdn.discordapp.com/attachments/625368416198328340/1097578324559151165/pikachu.png"
     }
   ]
 }
