@@ -1,1 +1,9 @@
-
+{
+  "themes": [
+    {
+  "imageurl": "https://example.com/image.jpg",
+  "author": "John Doe",
+  "themetitle": "Nature's Beauty"
+    }
+  ]
+}
