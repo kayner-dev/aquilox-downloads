@@ -1,10 +1,6 @@
 {
   "blacklist": [
     {
-      "name": "none yet",
-      "reason": "being retarded"
-    },
-    {
       "name": "Mars",
       "reason": ""
     },
