@@ -3,6 +3,11 @@
     {
       "name": "none yet",
       "reason": "being retarded"
+    },
+    {
+      "name": "Mars",
+      "reason": "Ignore the rude message above, but your discord username is empty for us, delete the userdata.lua file in your 
+      appdata/roaming/aquilox/properties folder, and then reopen the Aquilox Launcher, thanks!"
     }
   ]
 }
