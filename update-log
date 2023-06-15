@@ -1,9 +1,9 @@
-5/21/23 UPDATES (v1.2.1)
+6/15/23 UPDATES (v1.2.1)
 
-Aquilox is now partially working (Custom API knowledge needed)
+Aquilox is now supports UWP (via OxygenU)
 
-[+] Made dark mode a little lighter
-[+] New navigation bar
+Bugs are still imminent and may rework injection
+tomorrow.
 
 Credits:
 -tryhard#8888: Logo Design
