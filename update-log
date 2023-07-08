@@ -1,8 +1,6 @@
-6/18/23 UPDATES (v1.2.3)
+6/18/23 UPDATES (v1.2.4)
 
-Aquilox now supports UWP (via OxygenU)
-
-[+] Profile Picture Changes
+Bug fixes based on exception messages
 
 Credits:
 -tryhard#8888: Logo Design
